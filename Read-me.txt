@@ -1,0 +1,5 @@
+1. Extract the zip file in the root directory or where ever you want
+2. Create database with the name of "json_database"
+3. Import the provide .sql file into your newly created database
+
+Enjoy
